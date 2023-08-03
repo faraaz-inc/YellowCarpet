@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+    font-weight: bolder;
+}
+.heading {
+    color: yellow;
+    margin: 50px;
+}
